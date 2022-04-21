@@ -5,19 +5,14 @@
 **SCREENSHOTS** 
 
 **Dashboard**
-<img src="https://i.ibb.co/D4T0z6T/dashboard.png" alt="dashboard" border="0">
-
-**Login**
-<img src="https://i.ibb.co/Rh1Bfwk/login.png" alt="login" border="0">
+<img src="http://jabalthoriq.online/assets/img/portfolio/academy2.png" alt="dashboard" border="0">
 
 **Student Marksheet**
-<img src="https://i.ibb.co/GCgv5ZR/marksheet.png" alt="marksheet" border="0">
+<img src="http://jabalthoriq.online/assets/img/portfolio/academy3.png" alt="marksheet" border="0">
 
 **System Settings**
-<img src="https://i.ibb.co/Kmrhw69/system-settings.png" alt="system-settings" border="0">
+<img src="http://jabalthoriq.online/assets/img/portfolio/academy1.png" alt="system-settings" border="0">
 
-**Print Tabulation Sheet & Marksheet**
-<img src="https://i.ibb.co/QmscPfn/capture-20210530-115802.png" alt="tabulation-sheet" border="0">
 
 <hr />  
 
